@@ -12,7 +12,7 @@ const Example = (props) => {
       <Card>
         <CardImg width="100%" src="https://www.humanesociety.org/sites/default/files/styles/1240x698/public/2020-07/kitten-510651.jpg?h=f54c7448&itok=ZhplzyJ9" alt="Card image cap" className="My3cards" />
         <CardBody>
-          <CardTitle style={{fontSize: "25px" }}>Kitten</CardTitle>
+          <CardTitle style={{fontSize: "25px" }}>Kitty</CardTitle>
           <p style={{textAlign:"left"}}><b>Age:</b>3-12 months</p>
           <p style={{textAlign:"left"}}><b>favourite food:</b>Milk and canned food</p>
           <p style={{textAlign:"left"}}><b>Habits:</b> Curious, like to explore things around</p>
