@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/catking/static/css/main.a6c0facc.css",
-    "main.js": "/catking/static/js/main.1dcf1544.js",
+    "main.css": "/catking/static/css/main.46b07972.css",
+    "main.js": "/catking/static/js/main.8af01956.js",
     "index.html": "/catking/index.html",
-    "main.a6c0facc.css.map": "/catking/static/css/main.a6c0facc.css.map",
-    "main.1dcf1544.js.map": "/catking/static/js/main.1dcf1544.js.map"
+    "main.46b07972.css.map": "/catking/static/css/main.46b07972.css.map",
+    "main.8af01956.js.map": "/catking/static/js/main.8af01956.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6c0facc.css",
-    "static/js/main.1dcf1544.js"
+    "static/css/main.46b07972.css",
+    "static/js/main.8af01956.js"
   ]
 }
